@@ -21,3 +21,13 @@ my_model_A/
 my_weights.data-00000-of-00001
 my_weights.index
 
+my_custom_model/
+my_model_with_a_custom_layer/
+my_model_with_a_custom_loss/
+my_model_with_a_custom_loss_class/
+my_model_with_a_custom_loss_threshold_2/
+my_model_with_a_custom_metric/
+my_model_with_a_custom_metric_v2/
+my_model_with_many_custom_parts/
+
+
