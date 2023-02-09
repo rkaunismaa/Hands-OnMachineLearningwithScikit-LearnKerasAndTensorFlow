@@ -55,6 +55,20 @@ my_shakespeare_model/
 my_stateful_shakespeare_model/
 my_tfhub_cache/
 
+images/generative/dcgan_generated_images_plot.png
+images/generative/ddpm_generated_images_plot.png
+images/generative/dropout_denoising_plot.png
+images/generative/fashion_mnist_visualization_plot.png
+images/generative/gan_generated_images_plot.png
+images/generative/linear_autoencoder_pca_plot.png
+images/generative/reconstruction_plot.png
+images/generative/semantic_interpolation_plot.png
+images/generative/sparsity_loss_plot.png
+images/generative/vae_generated_images_plot.png
+images/generative/variance_schedule_plot.png
+my_diffusion_model/
+
+
 
 
 
