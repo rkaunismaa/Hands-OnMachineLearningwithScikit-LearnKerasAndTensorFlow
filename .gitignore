@@ -50,6 +50,14 @@ my_test_3.tfrecord
 my_test_4.tfrecord
 person.proto
 
+images/nlp/positional_embedding_plot.png
+my_shakespeare_model/
+my_stateful_shakespeare_model/
+my_tfhub_cache/
+
+
+
+
 
 
 
