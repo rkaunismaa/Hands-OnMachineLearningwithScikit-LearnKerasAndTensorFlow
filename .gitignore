@@ -30,4 +30,28 @@ my_model_with_a_custom_metric/
 my_model_with_a_custom_metric_v2/
 my_model_with_many_custom_parts/
 
+bach_cold.wav
+bach_hot.wav
+bach_medium.wav
+bach_test_4.wav
+images/rnn/daily_ridership_plot.png
+images/rnn/differencing_plot.png
+images/rnn/forecast_ahead_plot.png
+images/rnn/long_term_ridership_plot.png
+images/rnn/yearly_diff_plot.png
+my_bach_model/
+my_compressed.tfrecord
+my_data.tfrecord
+my_sketchrnn/
+my_test_0.tfrecord
+my_test_1.tfrecord
+my_test_2.tfrecord
+my_test_3.tfrecord
+my_test_4.tfrecord
+person.proto
+
+
+
+
+
 
